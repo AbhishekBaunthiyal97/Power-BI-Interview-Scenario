@@ -4,6 +4,8 @@
 
 🚀 **Power BI Interview Scenarios: Ace Your Next Interview! 🚀**
 
+**                           **
+
 Sharpen your Power BI skills and conquer your next interview with this comprehensive repository of real-world interview scenarios! Here, you'll find a curated collection of common Power BI interview questions, along with:
 
 ✨ **Detailed explanations:** Gain a clear understanding of the problem and the interviewer's expectations.
