@@ -1,6 +1,7 @@
 
 
 ![Designer (15)](https://github.com/AbhishekBaunthiyal97/Power-BI-Interview-Scenario/assets/159709045/b1fdaa8c-3d18-4923-9c6f-cdf6ee10d235)
+**                           **
 
 🚀 **Power BI Interview Scenarios: Ace Your Next Interview! 🚀**
 
@@ -14,7 +15,7 @@ Sharpen your Power BI skills and conquer your next interview with this comprehen
 
 📁 **Data files (CSV format):** Practice with realistic datasets relevant to each scenario.
 
-
+**                           **
 
 💡 **Why Choose This Repository?** 💡
 
@@ -26,7 +27,7 @@ Sharpen your Power BI skills and conquer your next interview with this comprehen
 
 🚀 **Confidence Boost:** Prepare effectively and feel reassured during your interview.
 
-
+**                           **
 
 📈 **Stay Updated:** 📈
 
