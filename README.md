@@ -14,7 +14,7 @@ Sharpen your Power BI skills and conquer your next interview with this comprehen
 
 
 
-**Why Choose This Repository?** 💡
+💡 **Why Choose This Repository?** 💡
 
 🎯 **Targeted Practice:** Focus on the exact types of questions you're likely to encounter in interviews.
 
@@ -26,7 +26,7 @@ Sharpen your Power BI skills and conquer your next interview with this comprehen
 
 
 
-**Stay Updated:** 📈
+📈 **Stay Updated:** 📈
 
 This repository will be continuously updated with new scenarios and solutions. Feel free to contribute your own experiences and insights to help others on their interview journeys!
 
